@@ -11,7 +11,7 @@ each team based on multiple statistics
 
 - Visualized the data on an interactive dashboard on Power BI
 
-![](https://github.com/DMK980/UCL-Dashboard/blob/main/UCL%20Dashboard.png)
+![](UCL%20Dashboard.png)
 
 ## Project 2
 
