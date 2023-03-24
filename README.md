@@ -12,14 +12,20 @@ each team based on multiple statistics
 
 ![](UCL%20Dashboard.png)
 
-## [Project 2 : Bella Beat Case Study](https://github.com/DMK980/UCL-Dashboard)
+## [Project 2 : Bella Beat Case Study](https://github.com/DMK980/Bella-Beat-Case-Study)
 
-- Used the UEFA Champions League 2021/22 dataset on Kaggle to create 
-a dashboard to show the performance of each team on different metrics
+For The Google Data Analytics Professional Certificate I undertook this Case Study
 
-- Transformed the data using Excel utilizing Pivot tables, functions and formulas to Rank 
-each team based on multiple statistics 
+- Analyzed a Fitbit dataset publicly available on kaggle to answer three business questinos
 
-- Visualized the data on an interactive dashboard on Power BI
+###Business Task
+1. What are some trends in smart device usage?
+2. How could these trends apply to Bella beat customers?
+3. How could these trends help influence Bella beat marketing strategy?
+
+- Cleaned, Transformed and Merged the datasets using R 
+
+- Visualized the data using ggplot2 and reported the findings in a multitude
+of methods ie. PDF,R Markdown, html
 
 ![](UCL%20Dashboard.png)
