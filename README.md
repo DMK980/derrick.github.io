@@ -28,4 +28,4 @@ For The Google Data Analytics Professional Certificate I undertook this Case Stu
 - Visualized the data using ggplot2 and reported the findings in a multitude
 of methods ie. PDF,R Markdown, html
 
-![](UCL%20Dashboard.png)
+![](Bella%20Beat%20Case%20Study.png)
