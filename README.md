@@ -18,7 +18,7 @@ For The Google Data Analytics Professional Certificate I undertook this Case Stu
 
 - Analyzed a Fitbit dataset publicly available on kaggle to answer three business questinos
 
-###Business Task
+### Business Task
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bella beat customers?
 3. How could these trends help influence Bella beat marketing strategy?
